@@ -3,25 +3,36 @@
     "year": "To Read",
     "books": [
       {
-        "name": "Naked Money, Charles Wheelan"
+        "name": "New Thinking, Dagogo Altraide (Cold Fusion)"
+      },
+      {
+        "name": "Never Split The Difference, Chris Voss"
+      },
+      {
+        "name": "Guards! Guards!, Terry Pratchett",
+        "review": "This is my brother's recommendation, and 10% of the way through, I have no idea what's going on. Still, I'll try to finish it."
+      },
+      {
+        "name": "A Little History of Religion, Richard Holloway",
+        "review": "I started this book last year and I've read through half of the book - but I've realized for me to get anything useful out of this book, I really have to make some notes post each chapter. Else it's like reading a fiction book where you know the overall plot but you tend to forget the major details."
+      },
+      {
+        "name": "Naked Money, Charles Wheelan",
+        "review": "Again similar to other non fiction books, for me to get anything useful out of this, I think I should make notes while I read through it."
       },
       {
         "name": "Simulacron-3, Daniel F. Galouye"
-      },
-      {
-        "name": "Aristotle and Dante Discover the Secrets of the Universe, Benjamin Alire Sáenz"
-      },
-      {
-        "name": "The Tell Tale Brain, V. S. Ramachandran"
-      },
-      {
-        "name": "New Thinking, Dagogo Altraide (Cold Fusion)"
       }
     ]
   },
   {
     "year": "2021",
     "books": [
+      {
+        "name": "Shoe Dog (Nike), Phil Knight",
+        "review": "Imagine you're sitting by a bonfire, and your grandfather tells you his life's story of how he started Nike, the biggest sports brand in the world - all the hurdles thrown your way in starting a business, the balancing act of having a personal life and of getting married and having children, and figuring out the man he wanted to be through the whole process. I really enjoyed it because it read like a fiction book - based entirely on one man's recollection of his life events. And that's where I'd like to underscore the thing that stood out the most to me - much like a fiction book, the author is always _right_, because it is his story and he is the protagonist - given no matter what hardship, he comes out on top victorious. However, there are parts in the book where he says he hasn't done anything wrong/illegal, and yet you feel he isn't painting the entire picture. All in all though, this was a great motivational read!",
+        "start": true
+      },
       {
         "name": "The Clockwork Man, E.V. Odle [audiobook]",
         "review": "Written in the 1920s when humans did not have the slightest clue of the upcoming digital age, this was the first appearance of a cyborg in literature. What I loved is how one of the most advanced pieces of technology we had in that day was the mechanical clock; and that's as far as the mind's imagination could go - the clockwork man is a cyborg who functions on advanced mechanical machinery, and the key to his functioning is a complicated clock at the back of its head (!!). The book feels like a lifetime compilation of the author's take on the various aspects of life, science and speculation of the future; the book has references to the greatness of Einstein, the understanding of time, the dimensions, love, emotions, relationships, scepticism, and belief. I loved it, and will definitely read this again as a book.",
@@ -110,6 +121,19 @@
         "name": "Sapiens, Yuval Noah Harari",
         "review": "",
         "star": true
+      }
+    ]
+  },
+  {
+    "year": "Backlog: Books in my radar but I might skip",
+    "books": [
+      {
+        "name": "The Tell Tale Brain, V. S. Ramachandran",
+        "review": "I've wanted to read this since my internship with an MIT Media Lab in 2015. Never got around to it."
+      },
+      {
+        "name": "Aristotle and Dante Discover the Secrets of the Universe, Benjamin Alire Sáenz",
+        "review": "Sounds looks a fun young adult book and an easy read. Maybe during some vacation."
       }
     ]
   }
