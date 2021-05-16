@@ -1,24 +1,33 @@
 [
   {
-    "year": "To Read",
+    "year": "To Read (Ordered)",
     "books": [
       {
-        "name": "New Thinking, Dagogo Altraide (Cold Fusion)"
+        "name": "The Anthropocene Reviewed, John Green"
       },
       {
-        "name": "Never Split The Difference, Chris Voss"
+        "name": "Recursion, Blake Crouch"
       },
       {
-        "name": "Guards! Guards!, Terry Pratchett",
-        "review": "This is my brother's recommendation, and 10% of the way through, I have no idea what's going on. Still, I'll try to finish it."
+        "name": "No Rules Rules (Netflix), Erin Meyer and Reed Hastings"
       },
       {
-        "name": "A Little History of Religion, Richard Holloway",
-        "review": "I started this book last year and I've read through half of the book - but I've realized for me to get anything useful out of this book, I really have to make some notes post each chapter. Else it's like reading a fiction book where you know the overall plot but you tend to forget the major details."
+        "name": "Ride of a Lifetime (Disney), Robert Iger"
       },
       {
-        "name": "Naked Money, Charles Wheelan",
-        "review": "Again similar to other non fiction books, for me to get anything useful out of this, I think I should make notes while I read through it."
+        "name": "Factfulness, Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling"
+      },
+      {
+        "name": "Modern Romance, Aziz Ansari"
+      },
+      {
+        "name": "Show Your Work!, Austin Kleon"
+      },
+      {
+        "name": "Invisible Women, Caroline Criado-Perez"
+      },
+      {
+        "name": "The Last Mughal, William Dalrymple"
       },
       {
         "name": "Simulacron-3, Daniel F. Galouye"
@@ -26,12 +35,43 @@
     ]
   },
   {
+    "year": "Reading / Unfinished",
+    "books": [
+      {
+        "name": "New Thinking, Dagogo Altraide (Cold Fusion) (2021)",
+        "review": "I read half of this book 4 months ago, and I absolutely loved it. However, I don't remember most of the stories in the book, and I wish I did, because they were all very interesting, but apart from making me feel great, and truly understanding that it takes solid hard work, luck, and the right time in history to invent something novel and useful, I don't remember many details. Making notes on things that strike a chord is the only way to make this a useful read. Otherwise, at this point, all I remember is it making me feel good after having read it.",
+        "star": true
+      },
+      {
+        "name": "Never Split The Difference, Chris Voss (2021)",
+        "review": "Read 20% of it, and realized it is just another self help book that I can read to feel like I'm reading something smart, but until I don't actually apply anything in real life, it's as good as reading fiction. Something I really wish these books did was quiz you / give you situations to act out in, so you can learn to really see what you would do vs what the author is suggesting. Something of the sort of a school textbook with quizzes at the end of each chapter. I will try to finish it because it is a short book, but I find it hard to make it a useful read."
+      },
+      {
+        "name": "Guards! Guards!, Terry Pratchett (2021)",
+        "review": "This is my brother's recommendation, and 10% of the way through, I have no idea what's going on. Still, I'll try to finish it.\nUpdate: 30% through, I'm really trying to like this book, but it just keeps switching plots randomly, making things hard to follow."
+      },
+      {
+        "name": "A Little History of Religion, Richard Holloway (2021)",
+        "review": "I started this book last year and I've read through half of the book - but I've realized for me to get anything useful out of this book, I really have to make some notes post each chapter. Else it's like reading a fiction book where you know the overall plot but you tend to forget the major details.\nSomething that really struck me is how hard it is to remove your biases, and to write from a neutral lens. For example, while speaking about a religion that has nothing to do with the Greek language, he often praises Greek, and describes the origin of an English word equating it back to the great Greeks - something that dilutes the importance of the actual religion being spoken about, almost placing the Greeks on top.",
+        "star": true
+      },
+      {
+        "name": "Naked Money, Charles Wheelan (2021)",
+        "review": "Again similar to other non fiction books, for me to get anything useful out of this, I think I should make notes while I read through it."
+      }
+    ]
+  },
+  {
     "year": "2021",
     "books": [
       {
+        "name": "Dark Matter, Blake Crouch",
+        "review": "If in another universe, there was a person who had lived through the exact life I am living today, except with a stronger urge to write a book, this would be the book that version of me wrote. It has all the elements of topics & interests I gravitate towards, am fond of, or have people around me speak about.\nIt has Black Mirror vibes, plotted similar to the movie Source Code, with philosophical questions we love asking ourselves about the paths not taken & big decisions that might have changed the course of our lives.\nFunnily enough, it also reminded me of a book series I loved as a child - The Magic Treehouse, which I thought was a hilarious parallel. All in all, I loved the concept, the hook, and the first half was especially fun to read - the end however was much like 'reading a Hollywood movie'."
+      },
+      {
         "name": "Shoe Dog (Nike), Phil Knight",
         "review": "Imagine you're sitting by a bonfire, and your grandfather tells you his life's story of how he started Nike, the biggest sports brand in the world - all the hurdles thrown your way in starting a business, the balancing act of having a personal life and of getting married and having children, and figuring out the man he wanted to be through the whole process. I really enjoyed it because it read like a fiction book - based entirely on one man's recollection of his life events. And that's where I'd like to underscore the thing that stood out the most to me - much like a fiction book, the author is always _right_, because it is his story and he is the protagonist - given no matter what hardship, he comes out on top victorious. However, there are parts in the book where he says he hasn't done anything wrong/illegal, and yet you feel he isn't painting the entire picture. All in all though, this was a great motivational read!",
-        "start": true
+        "star": true
       },
       {
         "name": "The Clockwork Man, E.V. Odle [audiobook]",
