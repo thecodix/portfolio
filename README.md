@@ -1,8 +1,8 @@
-# www.rish.space
+# www.alfredoromeu.com
 
 ----
 
-This is [my personal corner on the web](http://rish.space). I quite like the domain name; conveys exactly what it is. 
+This is [my personal corner on the web](www.alfredoromeu.com). I quite like the domain name; conveys exactly what it is. 
 
 
 # Screenshots
@@ -14,7 +14,6 @@ This is [my personal corner on the web](http://rish.space). I quite like the dom
 # Technology
 
 Developed using Python Flask, and a lot of CSS and Jinja2.
-Currently hosted on Heroku. 
 
 Sidenote: I struggle to understand why web UI isn't as easy to make as Android's.
 
