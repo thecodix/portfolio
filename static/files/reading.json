@@ -1,63 +1,12 @@
 [
   {
-    "year": "To Read (Ordered)",
+    "year": "Backlog",
     "books": [
       {
         "name": "The Anthropocene Reviewed, John Green"
       },
       {
         "name": "Recursion, Blake Crouch"
-      },
-      {
-        "name": "No Rules Rules (Netflix), Erin Meyer and Reed Hastings"
-      },
-      {
-        "name": "Ride of a Lifetime (Disney), Robert Iger"
-      },
-      {
-        "name": "Factfulness, Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling"
-      },
-      {
-        "name": "Modern Romance, Aziz Ansari"
-      },
-      {
-        "name": "Show Your Work!, Austin Kleon"
-      },
-      {
-        "name": "Invisible Women, Caroline Criado-Perez"
-      },
-      {
-        "name": "The Last Mughal, William Dalrymple"
-      },
-      {
-        "name": "Simulacron-3, Daniel F. Galouye"
-      }
-    ]
-  },
-  {
-    "year": "Reading / Unfinished",
-    "books": [
-      {
-        "name": "New Thinking, Dagogo Altraide (Cold Fusion) (2021)",
-        "review": "I read half of this book 4 months ago, and I absolutely loved it. However, I don't remember most of the stories in the book, and I wish I did, because they were all very interesting, but apart from making me feel great, and truly understanding that it takes solid hard work, luck, and the right time in history to invent something novel and useful, I don't remember many details. Making notes on things that strike a chord is the only way to make this a useful read. Otherwise, at this point, all I remember is it making me feel good after having read it.",
-        "star": true
-      },
-      {
-        "name": "Never Split The Difference, Chris Voss (2021)",
-        "review": "Read 20% of it, and realized it is just another self help book that I can read to feel like I'm reading something smart, but until I don't actually apply anything in real life, it's as good as reading fiction. Something I really wish these books did was quiz you / give you situations to act out in, so you can learn to really see what you would do vs what the author is suggesting. Something of the sort of a school textbook with quizzes at the end of each chapter. I will try to finish it because it is a short book, but I find it hard to make it a useful read."
-      },
-      {
-        "name": "Guards! Guards!, Terry Pratchett (2021)",
-        "review": "This is my brother's recommendation, and 10% of the way through, I have no idea what's going on. Still, I'll try to finish it.\nUpdate: 30% through, I'm really trying to like this book, but it just keeps switching plots randomly, making things hard to follow."
-      },
-      {
-        "name": "A Little History of Religion, Richard Holloway (2021)",
-        "review": "I started this book last year and I've read through half of the book - but I've realized for me to get anything useful out of this book, I really have to make some notes post each chapter. Else it's like reading a fiction book where you know the overall plot but you tend to forget the major details.\nSomething that really struck me is how hard it is to remove your biases, and to write from a neutral lens. For example, while speaking about a religion that has nothing to do with the Greek language, he often praises Greek, and describes the origin of an English word equating it back to the great Greeks - something that dilutes the importance of the actual religion being spoken about, almost placing the Greeks on top.",
-        "star": true
-      },
-      {
-        "name": "Naked Money, Charles Wheelan (2021)",
-        "review": "Again similar to other non fiction books, for me to get anything useful out of this, I think I should make notes while I read through it."
       }
     ]
   },
@@ -65,22 +14,12 @@
     "year": "2021",
     "books": [
       {
-        "name": "Dark Matter, Blake Crouch",
-        "review": "If in another universe, there was a person who had lived through the exact life I am living today, except with a stronger urge to write a book, this would be the book that version of me wrote. It has all the elements of topics & interests I gravitate towards, am fond of, or have people around me speak about.\nIt has Black Mirror vibes, plotted similar to the movie Source Code, with philosophical questions we love asking ourselves about the paths not taken & big decisions that might have changed the course of our lives.\nFunnily enough, it also reminded me of a book series I loved as a child - The Magic Treehouse, which I thought was a hilarious parallel. All in all, I loved the concept, the hook, and the first half was especially fun to read - the end however was much like 'reading a Hollywood movie'."
+        "name": "(In progress) Reminiscences of a Stock Operator,  Edwin Lefèvre (1923)",
+        "review": ""
       },
       {
-        "name": "Shoe Dog (Nike), Phil Knight",
-        "review": "Imagine you're sitting by a bonfire, and your grandfather tells you his life's story of how he started Nike, the biggest sports brand in the world - all the hurdles thrown your way in starting a business, the balancing act of having a personal life and of getting married and having children, and figuring out the man he wanted to be through the whole process. I really enjoyed it because it read like a fiction book - based entirely on one man's recollection of his life events. And that's where I'd like to underscore the thing that stood out the most to me - much like a fiction book, the author is always _right_, because it is his story and he is the protagonist - given no matter what hardship, he comes out on top victorious. However, there are parts in the book where he says he hasn't done anything wrong/illegal, and yet you feel he isn't painting the entire picture. All in all though, this was a great motivational read!",
-        "star": true
-      },
-      {
-        "name": "The Clockwork Man, E.V. Odle [audiobook]",
-        "review": "Written in the 1920s when humans did not have the slightest clue of the upcoming digital age, this was the first appearance of a cyborg in literature. What I loved is how one of the most advanced pieces of technology we had in that day was the mechanical clock; and that's as far as the mind's imagination could go - the clockwork man is a cyborg who functions on advanced mechanical machinery, and the key to his functioning is a complicated clock at the back of its head (!!). The book feels like a lifetime compilation of the author's take on the various aspects of life, science and speculation of the future; the book has references to the greatness of Einstein, the understanding of time, the dimensions, love, emotions, relationships, scepticism, and belief. I loved it, and will definitely read this again as a book.",
-        "star": true
-      },
-      {
-        "name": "The Old Man and the Sea, Ernest Hemingway",
-        "review": "Remove all pleasures from life, and whatever happens will feel significant; deprive yourself of your favorite food, and the next time you eat it will feel like the best meal you've ever had. I enjoyed this book for the very reason that not a lot happens; it really is just about an old man and a large fish; the everyday thoughts one has captured just as one would think them, the loneliness of life, the comradery of ones own company, the relationships we build inside our heads with things both conscious and inanimate.",
+        "name": "Rich dad, poor dad, Robert Kiyosaki",
+        "review": "",
         "star": true
       }
     ]
@@ -89,52 +28,108 @@
     "year": "2020",
     "books": [
       {
-        "name": "What Does It All Mean, Thomas Nagel",
-        "review": "This is the first book I've read in philosophy, and there will be many, many more for sure. This is a quick 100 page simple introduction of the questions philosophy asks - things I've been thinking about all my life. I liked the content and the ideas, many of which I have thought about before, but the way it was written didn't make it a fun read. Long, non-concise, overly-questiony sentences.",
-        "star": false
+        "name": "The intelligent investor, Benjamin Graham",
+        "review": ""
+      },
+      {
+        "name": "Either/Or: A fragment of life, Soren Kierkegaard",
+        "review": "",
+        "star": true
+      },
+      {
+        "name": "Viktor Emil Frankl",
+        "review": "",
+        "star": true
+      },
+      {
+        "name": "Running on empty",
+        "review": "",
+        "star": true
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "books": [
+      {
+        "name": "Orlando, Virginia Woolf (1928)",
+        "review": ""
+      },
+      {
+        "name": "Baking with Kafka, Tom Gauld",
+        "review": ""
+      },
+      {
+        "name": "Meditations, Marcus Aurelius",
+        "review": "",
+        "star": true
+      },
+      {
+        "name": "Just Mercy, Bryan Stevenson",
+        "review": "",
+        "star": true
+      },
+      {
+        "name": "Never eat alone, Kenneth Skodje",
+        "review": ""
+      },
+      {
+        "name": "The rational male, Rollo Tomassi",
+        "review": ""
+      },
+      {
+        "name": "48 laws of power, Robert Greene",
+        "review": ""
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "books": [
+      {
+        "name": "Karamazov Brothers, Fyodor Dostoyevsky (1879)",
+        "review": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love."
       },
       {
         "name": "The Making of Prince of Persia, Jordan Mechner",
         "review": "25 year old developer who goes through the everyday struggles of life while maintaining a diary. I haven't ever connected to an author as much as I connected with Jordan. He has exactly the same mid 20s questions, the same career-life-relationships worries, the what ifs, and the where am I going, whilst also knowing that he's really doing a fairly good job at life.",
         "star": true
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "books": [
+      {
+        "name": "Benito Cereno, Herman Melville (1855)",
+        "review": ""
       },
       {
-        "name": "When Google Met Wikileaks, Julian Assange",
-        "review": "I wanted to read this book to know what hides behind Google's bright colorful logo, and this was good insight into it. I don't think it is a good idea commenting on this further though."
+        "name": "The Siege of Malta 1565, Francisco Balbi di Correggio (1567)",
+        "review": ""
       },
       {
-        "name": "The Sun Is Also A Star, Nicola Yoon",
-        "review": "This was the first love story I've ever read, and I loved it. It's a book about perspectives, and what I loved was how the same scene plays differently in two people's heads. This book has a counterpart movie, and it was the first time I've read the book before watching the movie, and I have to say, the movie was awful. It lost everything that made the book special.",
+        "name": "The Master and Margarita, Mikhail Bulgakov (1967)",
+        "review": "Everything will turn out right, the world is built on that.",
+        "star": true
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "books": [
+      {
+        "name": "The Adventures of Huckleberry Finn, Mark Twain",
+        "review": "",
         "star": true
       },
       {
-        "name": "Ready Player One, Ernest Cline",
-        "review": "Favorite book of all time. It's the first 500+ page book I've ever read non stop for 12 hours straight. I couldn't put it down! What makes it interesting is, Ready Player One is also a movie (Steven Spielberg!) and this is also the first time I consumed the same content in different formats.",
-        "star": true
+        "name": "Fool's Crusade, Diana Johnstone",
+        "review": "Read it as part of my research before travelling to ex Yugoslavia."
       },
       {
-        "name": "Miss peregrine's home for peculiar children, Ransom Riggs [audiobook]",
-        "review": "Harry Potter-esq book in an alternate universe. It took me all weekend to get through the 9 hours, but this was the first time I sat through an audiobook, and I quite enjoyed the imagination it puts one through."
-      },
-      {
-        "name": "How to Win Friends and Influence People, Dale Carnegie",
-        "review": "This was an okay read. I was brought up with all the insights the books provides as everyday discussions by my mother and father, and reading this just further strengthened them. It is a book that needs a re-read every now and then to remind you that the world is a fairly selfish place, and everyone is optimizing for themselves."
-      },
-      {
-        "name": "Nineteen Eighty-Four, George Orwell",
-        "review": "Great book. A really, really great book! I completely understand Reddit's hype around this book."
-      },
-      {
-        "name": "Models, Mark Manson",
-        "review": "Really, I have no shame in saying I read this - it's a book about picking up girls. The advice in the book is not bad per se - it advocates working on yourself, your body, your wardrobe, your knowledge. But the idea of *getting* girls was still a major part of the book that really made me realize how cheap that sounds. I've never had such relationships before. They've always been built on months of getting to know each other and that's what I value."
-      },
-      {
-        "name": "Hitchhiker's Guide To The Galaxy, Douglas Adams",
-        "review": "The entire book, all I kept thinking was 'What amazing wit!'. I wish to be able to write and speak in the voice of Douglas Adams some day. His writing is witty and hilarious, but also a very, very simple read."
-      },
-      {
-        "name": "Einstein's Dreams, Alan Lightman",
-        "review": "A brilliant dramatic, almost romantic take on the various forms of time. It makes you think of how different the world would be if we perceived time differently. This book isn't for everyone. Everyone I've recommended this book to has disliked it, or found it hard to read.",
+        "name": "The mosquito coast, Paul Theroux (1981)",
+        "review": "Allie Fox.",
         "star": true
       }
     ]
@@ -143,12 +138,12 @@
     "year": "Past Favorites",
     "books": [
       {
-        "name": "Siddhartha, Herman Hesse",
+        "name": "Avenger, Frederick Forsyth",
         "review": "",
         "star": true
       },
       {
-        "name": "Atomic Habits, James Clear",
+        "name": "Moby Dick, Herman Melville",
         "review": "",
         "star": true
       },
@@ -161,19 +156,6 @@
         "name": "Sapiens, Yuval Noah Harari",
         "review": "",
         "star": true
-      }
-    ]
-  },
-  {
-    "year": "Backlog: Books in my radar but I might skip",
-    "books": [
-      {
-        "name": "The Tell Tale Brain, V. S. Ramachandran",
-        "review": "I've wanted to read this since my internship with an MIT Media Lab in 2015. Never got around to it."
-      },
-      {
-        "name": "Aristotle and Dante Discover the Secrets of the Universe, Benjamin Alire Sáenz",
-        "review": "Sounds looks a fun young adult book and an easy read. Maybe during some vacation."
       }
     ]
   }
