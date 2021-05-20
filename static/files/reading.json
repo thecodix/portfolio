@@ -3,10 +3,16 @@
     "year": "Backlog",
     "books": [
       {
-        "name": "The Anthropocene Reviewed, John Green"
+        "name": "Sculpting in time, Andrei Tarkovsky (1984)"
       },
       {
-        "name": "Recursion, Blake Crouch"
+        "name": "Born to run, Christopher McDougall (2009)"
+      },
+      {
+        "name": "The catcher in the rye, JD Salinger (1951)"
+      },
+      {
+        "name": "Typee, Herman Melville (1846)"
       }
     ]
   },
@@ -18,7 +24,23 @@
         "review": ""
       },
       {
-        "name": "Rich dad, poor dad, Robert Kiyosaki",
+        "name": "What if? Randall Munroe (1975)",
+        "review": ""
+      },
+      {
+        "name": "Don't say yes when you want to say no, Herbert Fensterheim/Jean Baer (1975)",
+        "review": ""
+      },
+      {
+        "name": "Rich dad, poor dad, Robert Kiyosaki (1997)",
+        "review": ""
+      },
+      {
+        "name": "The permanent portfolio, Craig Rowland (2012)",
+        "review": ""
+      },
+      {
+        "name": "The little book of common sense investing, John C. Bogle (2007)",
         "review": "",
         "star": true
       }
@@ -28,23 +50,29 @@
     "year": "2020",
     "books": [
       {
-        "name": "The intelligent investor, Benjamin Graham",
+        "name": "The intelligent investor, Benjamin Graham (1949)",
         "review": ""
       },
       {
-        "name": "Either/Or: A fragment of life, Soren Kierkegaard",
+        "name": "Animal Farm, George Orwell (1945)",
+        "review": ""
+      },
+      {
+        "name": "Either/Or: A fragment of life, Soren Kierkegaard (1843)",
         "review": "",
         "star": true
       },
       {
-        "name": "Viktor Emil Frankl",
-        "review": "",
-        "star": true
+        "name": "Man's search for meaning, Viktor Emil Frankl (1946)",
+        "review": ""
       },
       {
-        "name": "Running on empty",
-        "review": "",
-        "star": true
+        "name": "Convict Conditioning, Paul 'Coach' Wade (2010)",
+        "review": ""
+      },
+      {
+        "name": "Running on empty, Jonice Webb (2012)",
+        "review": ""
       }
     ]
   },
@@ -52,33 +80,54 @@
     "year": "2019",
     "books": [
       {
+        "name": "The obstacle is the way, Ryan Holiday (2014)",
+        "review": ""
+      },
+      {
+        "name": "The big sleep, Raymond Chandler (1939)",
+        "review": "",
+        "star": true
+      },
+      {
+        "name": "Brave new world, Aldous Huxley (1998)",
+        "review": ""
+      },
+      {
+        "name": "Baking with Kafka, Tom Gauld (2017)",
+        "review": ""
+      },
+      {
+        "name": "Meditations, Marcus Aurelius (180)",
+        "review": "",
+        "star": true
+      },
+      {
         "name": "Orlando, Virginia Woolf (1928)",
         "review": ""
       },
       {
-        "name": "Baking with Kafka, Tom Gauld",
+        "name": "Never eat alone, Keith ferrazi (2005)",
         "review": ""
       },
       {
-        "name": "Meditations, Marcus Aurelius",
+        "name": "Just Mercy, Bryan Stevenson (2014)",
         "review": "",
         "star": true
       },
       {
-        "name": "Just Mercy, Bryan Stevenson",
-        "review": "",
-        "star": true
-      },
-      {
-        "name": "Never eat alone, Kenneth Skodje",
+        "name": "The ethical slut, Dossie Easton (1997)",
         "review": ""
       },
       {
-        "name": "The rational male, Rollo Tomassi",
+        "name": "The rational male, Rollo Tomassi (2013)",
         "review": ""
       },
       {
-        "name": "48 laws of power, Robert Greene",
+        "name": "Tao of Jeet Kune Do, Bruce Lee (1975)",
+        "review": ""
+      },
+      {
+        "name": "48 laws of power, Robert Greene (1998)",
         "review": ""
       }
     ]
@@ -87,13 +136,37 @@
     "year": "2018",
     "books": [
       {
-        "name": "Karamazov Brothers, Fyodor Dostoyevsky (1879)",
-        "review": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love."
+        "name": "How not to die, Michael Greger (2015)",
+        "review": ""
       },
       {
-        "name": "The Making of Prince of Persia, Jordan Mechner",
-        "review": "25 year old developer who goes through the everyday struggles of life while maintaining a diary. I haven't ever connected to an author as much as I connected with Jordan. He has exactly the same mid 20s questions, the same career-life-relationships worries, the what ifs, and the where am I going, whilst also knowing that he's really doing a fairly good job at life.",
+        "name": "The alabaster girl, Zan Perrion (2013)",
+        "review": ""
+      },
+      {
+        "name": "Open, Andre Agassi (2009)",
+        "review": ""
+      },
+      {
+        "name": "Way of the peaceful warrior, Dan Millman (1980)",
+        "review": ""
+      },
+      {
+        "name": "The subtle art of not giving a f*uck, Mark Manson (2016)",
+        "review": ""
+      },
+      {
+        "name": "When things fall apart, Pema Chodron (1996)",
+        "review": "",
         "star": true
+      },
+      {
+        "name": "Models, Mark Manson (2011)",
+        "review": ""
+      },
+      {
+        "name": "Karamazov Brothers, Fyodor Dostoyevsky (1879)",
+        "review": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love."
       }
     ]
   },
@@ -105,11 +178,24 @@
         "review": ""
       },
       {
+        "name": "The call of the wild, Jack London (1903)",
+        "review": ""
+      },
+      {
+        "name": "Neuromancer, William Gibson (1984)",
+        "review": ""
+      },
+      {
         "name": "The Siege of Malta 1565, Francisco Balbi di Correggio (1567)",
         "review": ""
       },
       {
         "name": "The Master and Margarita, Mikhail Bulgakov (1967)",
+        "review": "Everything will turn out right, the world is built on that.",
+        "star": true
+      },
+      {
+        "name": "Please Kill Me: The Uncensored Oral History of Punk, Legs McNeil (1996)",
         "review": "Everything will turn out right, the world is built on that.",
         "star": true
       }
@@ -119,12 +205,21 @@
     "year": "2016",
     "books": [
       {
-        "name": "The Adventures of Huckleberry Finn, Mark Twain",
+        "name": "Billy Budd, Sailor, Herman Melville (1924)",
+        "review": ""
+      },
+      {
+        "name": "Smoke Bellew, Jack London (1912)",
         "review": "",
         "star": true
       },
       {
-        "name": "Fool's Crusade, Diana Johnstone",
+        "name": "The Adventures of Huckleberry Finn, Mark Twain (1884)",
+        "review": "",
+        "star": true
+      },
+      {
+        "name": "Fool's Crusade: Yugoslavia, Nato, and Western Delusions, Diana Johnstone (2002)",
         "review": "Read it as part of my research before travelling to ex Yugoslavia."
       },
       {
@@ -135,27 +230,58 @@
     ]
   },
   {
+    "year": "2015",
+    "books": [
+      {
+        "name": "The metamorphosis, Franz Kafka (1915)",
+        "review": ""
+      },
+      {
+        "name": "The Second Half, Roy Keane (2014)",
+        "review": ""
+      },
+      {
+        "name": "Double dexter, Jeff Lindsay (2011)",
+        "review": ""
+      },
+      {
+        "name": "Dexter is delicious, Jeff Lindsay (2010)",
+        "review": ""
+      },
+      {
+        "name": "A dance with dragons, George RR Martin (2011)",
+        "review": ""
+      },
+      {
+        "name": "The old man and the sea, Ernest Hemingway (1952)",
+        "review": ""
+      },
+      {
+        "name": "Bartleby the scrivener, Herman Melville (1853)",
+        "review": ""
+      }
+    ]
+  },
+  {
     "year": "Past Favorites",
     "books": [
       {
-        "name": "Avenger, Frederick Forsyth",
+        "name": "Avenger, Frederick Forsyth (2003)",
         "review": "",
         "star": true
       },
       {
-        "name": "Moby Dick, Herman Melville",
+        "name": "Moby Dick, Herman Melville (1851)",
         "review": "",
         "star": true
       },
       {
-        "name": "Deep Work, Cal Newport",
-        "review": "",
-        "star": true
+        "name": "The fellowship of the ring, JRR Tolkien (1954)",
+        "review": ""
       },
       {
-        "name": "Sapiens, Yuval Noah Harari",
-        "review": "",
-        "star": true
+        "name": "Choke, Chuck Palahniuk (2001)",
+        "review": ""
       }
     ]
   }
